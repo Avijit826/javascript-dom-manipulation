@@ -1,4 +1,4 @@
-# Dom Manipulation Assignment
+# DOM Manipulation Assignment
 
 1. Webiste Name: [Dev To](https://dev.to/)
 
